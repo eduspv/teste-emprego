@@ -26,9 +26,9 @@ func StringContainsA(str string) {
 
 }
 
-/*func main() {
+func main() {
 	str := "eu sou vasco da gama meu bem"
 	StringContainsA(str)
 	fmt.Printf("Quantidade de vezes que aparece o caracter a ou A: %d", stringCounter(str))
 
-}*/
+}
